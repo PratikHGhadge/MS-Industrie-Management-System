@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This backend for MS-Industrie-Management-System",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "Pratik",
+  "license": "ISC"
+}
